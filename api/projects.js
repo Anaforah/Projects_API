@@ -2,7 +2,7 @@ export default function handler(req, res) {
   res.status(200).json([
     {
       title: "LoopOS software",
-      image: "public/LoopOS.png",
+      image: "images/LoopOS.png",
       tags: ["UX/UI Design", "Research"],
       description: "Summer Internship",
       links: [
@@ -11,7 +11,7 @@ export default function handler(req, res) {
     },
     {
       title: "NETWORKin identity",
-      image: "public/LoopOS.png",
+      image: "images/LoopOS.png",
       tags: ["Graphic Design", "Branding"],
       description: "Volunteer project",
       links: [
@@ -20,7 +20,7 @@ export default function handler(req, res) {
     },
     {
       title: "Octy Mobile App",
-      image: "public/LoopOS.png",
+      image: "images/LoopOS.png",
       tags: ["UI/UX design", "Research", "User Experience"],
       description: "University project",
       links: [
@@ -29,7 +29,7 @@ export default function handler(req, res) {
     },
     {
       title: "Asas Vingativas",
-      image: "public/LoopOS.png",
+      image: "images/LoopOS.png",
       tags: ["Animation", "Video"],
       description: "University project",
       links: [

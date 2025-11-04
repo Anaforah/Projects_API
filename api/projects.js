@@ -1,10 +1,10 @@
 export default function handler(req, res) {
   res.setHeader("Access-Control-Allow-Origin", "*");
-  
+
   res.status(200).json([
     {
       title: "LoopOS software",
-      image: "images/LoopOS.png",
+      image: "https://drive.google.com/uc?export=view&id=1Cn2WNcnDtXByrsBbtcgC2y7E45rFWqaS",
       tags: ["UX/UI Design", "Research"],
       description: "Summer Internship",
       links: [
@@ -13,7 +13,7 @@ export default function handler(req, res) {
     },
     {
       title: "NETWORKin identity",
-      image: "images/LoopOS.png",
+      image: "https://drive.google.com/uc?export=view&id=1Cn2WNcnDtXByrsBbtcgC2y7E45rFWqaS",
       tags: ["Graphic Design", "Branding"],
       description: "Volunteer project",
       links: [
@@ -22,7 +22,7 @@ export default function handler(req, res) {
     },
     {
       title: "Octy Mobile App",
-      image: "images/LoopOS.png",
+      image: "https://drive.google.com/uc?export=view&id=1Cn2WNcnDtXByrsBbtcgC2y7E45rFWqaS",
       tags: ["UI/UX design", "Research", "User Experience"],
       description: "University project",
       links: [
@@ -31,7 +31,7 @@ export default function handler(req, res) {
     },
     {
       title: "Asas Vingativas",
-      image: "images/LoopOS.png",
+      image: "https://drive.google.com/uc?export=view&id=1Cn2WNcnDtXByrsBbtcgC2y7E45rFWqaS",
       tags: ["Animation", "Video"],
       description: "University project",
       links: [

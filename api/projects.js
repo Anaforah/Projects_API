@@ -4,7 +4,7 @@ export default function handler(req, res) {
   res.status(200).json([
     {
       title: "LoopOS software",
-      image: "https://drive.google.com/uc?export=view&id=1Cn2WNcnDtXByrsBbtcgC2y7E45rFWqaS",
+      image: "https://raw.githubusercontent.com/Anaforah/Projects_API/main/public/LoopOS.png",
       tags: ["UX/UI Design", "Research"],
       description: "Summer Internship",
       links: [
@@ -13,7 +13,7 @@ export default function handler(req, res) {
     },
     {
       title: "NETWORKin identity",
-      image: "https://drive.google.com/uc?export=view&id=1Cn2WNcnDtXByrsBbtcgC2y7E45rFWqaS",
+      image: "https://raw.githubusercontent.com/Anaforah/Projects_API/main/public/LoopOS.png",
       tags: ["Graphic Design", "Branding"],
       description: "Volunteer project",
       links: [
@@ -22,7 +22,7 @@ export default function handler(req, res) {
     },
     {
       title: "Octy Mobile App",
-      image: "https://drive.google.com/uc?export=view&id=1Cn2WNcnDtXByrsBbtcgC2y7E45rFWqaS",
+      image: "https://raw.githubusercontent.com/Anaforah/Projects_API/main/public/LoopOS.png",
       tags: ["UI/UX design", "Research", "User Experience"],
       description: "University project",
       links: [
@@ -31,7 +31,7 @@ export default function handler(req, res) {
     },
     {
       title: "Asas Vingativas",
-      image: "https://drive.google.com/uc?export=view&id=1Cn2WNcnDtXByrsBbtcgC2y7E45rFWqaS",
+      image: "https://raw.githubusercontent.com/Anaforah/Projects_API/main/public/LoopOS.png",
       tags: ["Animation", "Video"],
       description: "University project",
       links: [

@@ -48,6 +48,15 @@ export default function handler(req, res) {
       ]
     },
     {
+      title: "EXO website",
+      image: "https://raw.githubusercontent.com/Anaforah/Projects_API/main/public/exowebsite.png",
+      tags: ["Web", "UI design"],
+      description: "Summer Internship",
+      links: [
+        { url: "https://ana-sofia-almeida.myportfolio.com/prototype-exo", text: "Video" }
+      ]
+    },
+    {
       title: "LUX: O código secreto",
       image: "https://raw.githubusercontent.com/Anaforah/Projects_API/main/public/LUX.png",
       tags: ["3D", "Game"],
@@ -55,6 +64,24 @@ export default function handler(req, res) {
       links: [
         { url: "https://ana-sofia-almeida.myportfolio.com/lux", text: "video" },
         { url: "https://lux-smoky.vercel.app", text: "Website" }
+      ]
+    },
+    {
+      title: "Fotografia",
+      image: "https://raw.githubusercontent.com/Anaforah/Projects_API/main/public/fotografia.png",
+      tags: ["Fotografia", "Editorial"],
+      description: "University project",
+      links: [
+        { url: "https://www.behance.net/gallery/203121649/Photography-compilation-Book", text: "Study Case" },
+      ]
+    },
+    {
+      title: "The Raven game",
+      image: "https://raw.githubusercontent.com/Anaforah/Projects_API/main/public/theraven.png",
+      tags: ["Web", "Game"],
+      description: "University project",
+      links: [
+        { url: "https://anaforah.github.io/The_Raven_Visual_Novel/", text: "Website" },
       ]
     }
   ]);
